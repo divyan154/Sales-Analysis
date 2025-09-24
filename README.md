@@ -45,4 +45,5 @@ and transactions.market_code="Mark001";`
 
 
 #Dashboards:
-![Dashboard 1](images/ui-screenshot.png)
+![Dashboard 1](images/Profit_analysis.png)
+![Dashboard 2](images/Revenue_analysis.png)
